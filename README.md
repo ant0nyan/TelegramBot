@@ -5,6 +5,8 @@ I developed a Telegram bot using the ChatGPT API that offers an intuitive interf
 
 ![Alt text](main.jpg)
 
-#/info command 
+### /info command 
+
+
 ![info](photo_5190644436403608180_y.jpg)
 
