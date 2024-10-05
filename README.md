@@ -15,9 +15,9 @@ I developed a Telegram bot using the ChatGPT API that offers an intuitive interf
 Thanks to the specially developed algorithm, HayqGPT is able to generate Armenian texts 90% more efficiently than ChatGPT.
 
 ## ChatGPT 
-![ChatGPT](ChatGPT generate.jpg)
+![ChatGPT](ChatGPTgenerate.jpg)
 
 ## HayqGPT
-![HayqGPT](HayqGPT generate.jpg)
+![HayqGPT](HayqGPTgenerate.jpg)
 
 
