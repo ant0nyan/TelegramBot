@@ -120,7 +120,7 @@ namespace TelegramBotExperiments
             }
             else
             {
-                await botClient.SendTextMessageAsync(message.Chat, "Կխնդրեմ հարցերը գրել ՀԱՅԱՏԱՌ!!!🇦🇲 և  հստակ😎");
+                await botClient.SendTextMessageAsync(message.Chat, "Կխնդրեմ հարցերը գրել ՀԱՅԱՏԱՌ!!🇦🇲 և  հստակ😎");
             }
         }
         public static async Task HandleErrorAsync(ITelegramBotClient botClient, Exception exception, CancellationToken cancellationToken)
